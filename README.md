@@ -21,7 +21,7 @@
 
 Rostruct is a third-party replacement for the standard Roblox bootstrapper & Bloxstrap, providing additional useful features and improvements.
 
-Running into a problem or need help with something? [Check out the Wiki](https://github.com/MadeByRedPCat/Rostruct/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/MadeByRedPCat/Rostruct/issues).
+<!-- Running into a problem or need help with something? [Check out the Wiki](https://github.com/MadeByRedPCat/Rostruct/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/MadeByRedPCat/Rostruct/issues). -->
 
 Rostruct is only available for Windows currently.
 
@@ -33,7 +33,7 @@ Rostruct is only available for Windows currently.
 
 **Q: Can using this get me banned?**
 
-**A:** No, it shouldn't. Rostruct doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/MadeByRedPCat/Rostruct/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Rostruct)
+**A:** No, it shouldn't. Rostruct doesn't interact with the Roblox client in the same way that exploits do. <!-- [Read more about that here.](https://github.com/MadeByRedPCat/Rostruct/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Rostruct) -->
 
 ## Features
 
@@ -45,11 +45,11 @@ Rostruct is only available for Windows currently.
 ## Installing
 Download the [latest release of Rostruct](https://github.com/MadeByRedPCat/Rostruct/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
 
-You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Bloxstrap after you've installed this.
+You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Rostruct after you've installed this.
 
-It's not unlikely that Windows Smartscreen will show a popup when you run Bloxstrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
+It's not unlikely that Windows Smartscreen will show a popup when you run Rostruct for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
 
-Once installed, Bloxstrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
+Once installed, Rostruct is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
 
 ## Code
 
@@ -61,7 +61,7 @@ Rostruct uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user
 [shield-repo-releases]: https://img.shields.io/github/downloads/MadeByRedPCat/Rostruct/latest/total?color=981bfe
 [shield-repo-latest]:   https://img.shields.io/github/v/release/MadeByRedPCat/Rostruct?color=7a39fb
 
-[shield-crowdin-status]: https://badges.crowdin.net/bloxstrap/localized.svg
+[shield-crowdin-status]: https://badges.crowdin.net//localized.svg
 [shield-discord-server]: https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff
 
 [repo-license]:  https://github.com/MadeByRedPCat/Rostruct/blob/main/LICENSE
